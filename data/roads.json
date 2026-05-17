@@ -1,0 +1,1562 @@
+[
+    {
+        "road_id": "R001",
+        "road_name": "Patel Avenue Extension",
+        "location": {
+            "lat": 12.3549,
+            "lon": 78.7714
+        },
+        "road_type": "MDR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2020-07-28",
+        "budget_sanctioned": 284741895.41,
+        "budget_spent": 232768549.41,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R002",
+        "road_name": "Airport Road",
+        "location": {
+            "lat": 13.2587,
+            "lon": 78.0252
+        },
+        "road_type": "MDR",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2021-10-31",
+        "budget_sanctioned": 301352542.39,
+        "budget_spent": 209515385.16,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R003",
+        "road_name": "Main Market Road Extension",
+        "location": {
+            "lat": 13.5063,
+            "lon": 78.3417
+        },
+        "road_type": "ODR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2021-11-14",
+        "budget_sanctioned": 207036946.02,
+        "budget_spent": 119830476.23,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R004",
+        "road_name": "University Road Phase 4",
+        "location": {
+            "lat": 13.2853,
+            "lon": 77.2972
+        },
+        "road_type": "VR",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2023-12-30",
+        "budget_sanctioned": 361476364.58,
+        "budget_spent": 210988541.02,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R005",
+        "road_name": "University Road",
+        "location": {
+            "lat": 12.7251,
+            "lon": 78.2909
+        },
+        "road_type": "NH",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2023-10-25",
+        "budget_sanctioned": 407753976.22,
+        "budget_spent": 285874246.3,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R006",
+        "road_name": "Expressway Sector 8",
+        "location": {
+            "lat": 13.1243,
+            "lon": 78.3081
+        },
+        "road_type": "VR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2022-12-18",
+        "budget_sanctioned": 212468768.09,
+        "budget_spent": 193942045.63,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R007",
+        "road_name": "Outer Ring Road Extension",
+        "location": {
+            "lat": 12.2958,
+            "lon": 77.2493
+        },
+        "road_type": "MDR",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2020-12-09",
+        "budget_sanctioned": 215724829.96,
+        "budget_spent": 132778597.11,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R008",
+        "road_name": "Bypass Phase 5",
+        "location": {
+            "lat": 12.6138,
+            "lon": 78.369
+        },
+        "road_type": "VR",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2022-09-29",
+        "budget_sanctioned": 75382561.62,
+        "budget_spent": 66274694.58,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R009",
+        "road_name": "MG Road Extension",
+        "location": {
+            "lat": 13.3312,
+            "lon": 77.1818
+        },
+        "road_type": "MDR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2021-03-26",
+        "budget_sanctioned": 191516162.75,
+        "budget_spent": 106600736.62,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R010",
+        "road_name": "MG Road Sector 2",
+        "location": {
+            "lat": 12.6439,
+            "lon": 78.3642
+        },
+        "road_type": "VR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2020-04-30",
+        "budget_sanctioned": 302300172.96,
+        "budget_spent": 245803724.48,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R011",
+        "road_name": "Main Market Road Extension",
+        "location": {
+            "lat": 13.0889,
+            "lon": 77.1144
+        },
+        "road_type": "ODR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2023-06-26",
+        "budget_sanctioned": 357604696.49,
+        "budget_spent": 238518491.67,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R012",
+        "road_name": "University Road Phase 2",
+        "location": {
+            "lat": 12.4737,
+            "lon": 77.7254
+        },
+        "road_type": "ODR",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2023-09-09",
+        "budget_sanctioned": 127824402.54,
+        "budget_spent": 80236422.08,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R013",
+        "road_name": "Shivaji Road Extension",
+        "location": {
+            "lat": 13.6409,
+            "lon": 78.6626
+        },
+        "road_type": "MDR",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2022-01-12",
+        "budget_sanctioned": 109863130.88,
+        "budget_spent": 83780714.15,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R014",
+        "road_name": "Gandhi Marg Extension",
+        "location": {
+            "lat": 12.0888,
+            "lon": 78.6563
+        },
+        "road_type": "SH",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2021-08-10",
+        "budget_sanctioned": 37139769.68,
+        "budget_spent": 21357883.1,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R015",
+        "road_name": "Expressway Sector 4",
+        "location": {
+            "lat": 12.515,
+            "lon": 78.2756
+        },
+        "road_type": "MDR",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2023-03-30",
+        "budget_sanctioned": 213682839.16,
+        "budget_spent": 184413077.13,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R016",
+        "road_name": "Outer Ring Road Phase 1",
+        "location": {
+            "lat": 13.3497,
+            "lon": 77.7137
+        },
+        "road_type": "MDR",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2022-05-24",
+        "budget_sanctioned": 121281397.08,
+        "budget_spent": 84680531.35,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R017",
+        "road_name": "Patel Avenue Extension",
+        "location": {
+            "lat": 12.2697,
+            "lon": 78.7365
+        },
+        "road_type": "VR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2023-07-08",
+        "budget_sanctioned": 242488502.22,
+        "budget_spent": 142297596.91,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R018",
+        "road_name": "Station Road Extension",
+        "location": {
+            "lat": 12.6162,
+            "lon": 78.7803
+        },
+        "road_type": "VR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2022-08-07",
+        "budget_sanctioned": 140490664.52,
+        "budget_spent": 74804123.5,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R019",
+        "road_name": "Shivaji Road Sector 9",
+        "location": {
+            "lat": 12.2877,
+            "lon": 77.1115
+        },
+        "road_type": "ODR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2021-04-22",
+        "budget_sanctioned": 203945122.42,
+        "budget_spent": 109553588.95,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R020",
+        "road_name": "High Street",
+        "location": {
+            "lat": 13.5694,
+            "lon": 77.865
+        },
+        "road_type": "MDR",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2022-01-15",
+        "budget_sanctioned": 442733766.36,
+        "budget_spent": 413799789.88,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R021",
+        "road_name": "Link Road Extension",
+        "location": {
+            "lat": 12.6481,
+            "lon": 78.147
+        },
+        "road_type": "NH",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2021-11-02",
+        "budget_sanctioned": 404376782.5,
+        "budget_spent": 217347141.36,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R022",
+        "road_name": "Nehru Road Sector 2",
+        "location": {
+            "lat": 13.1851,
+            "lon": 78.1075
+        },
+        "road_type": "SH",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2021-10-24",
+        "budget_sanctioned": 147038080.5,
+        "budget_spent": 85053380.63,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R023",
+        "road_name": "MG Road Phase 4",
+        "location": {
+            "lat": 13.1449,
+            "lon": 77.3876
+        },
+        "road_type": "MDR",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2022-05-30",
+        "budget_sanctioned": 332324353.09,
+        "budget_spent": 310431320.19,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R024",
+        "road_name": "Expressway Sector 6",
+        "location": {
+            "lat": 12.9786,
+            "lon": 77.7521
+        },
+        "road_type": "VR",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2020-02-02",
+        "budget_sanctioned": 234949510.89,
+        "budget_spent": 132728297.07,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R025",
+        "road_name": "Patel Avenue Extension",
+        "location": {
+            "lat": 13.2153,
+            "lon": 78.1209
+        },
+        "road_type": "ODR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2023-01-18",
+        "budget_sanctioned": 277361335.02,
+        "budget_spent": 141876604.5,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R026",
+        "road_name": "University Road Extension",
+        "location": {
+            "lat": 12.1949,
+            "lon": 78.2004
+        },
+        "road_type": "MDR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2020-10-29",
+        "budget_sanctioned": 229966866.83,
+        "budget_spent": 143763226.17,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R027",
+        "road_name": "Shivaji Road Extension",
+        "location": {
+            "lat": 13.4734,
+            "lon": 77.2335
+        },
+        "road_type": "VR",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2023-06-10",
+        "budget_sanctioned": 397247856.28,
+        "budget_spent": 326158693.09,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R028",
+        "road_name": "Nehru Road Extension",
+        "location": {
+            "lat": 13.542,
+            "lon": 77.0466
+        },
+        "road_type": "MDR",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2021-12-16",
+        "budget_sanctioned": 468754642.44,
+        "budget_spent": 457530337.06,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R029",
+        "road_name": "University Road Extension",
+        "location": {
+            "lat": 13.9009,
+            "lon": 78.9621
+        },
+        "road_type": "VR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2021-07-24",
+        "budget_sanctioned": 481932641.56,
+        "budget_spent": 336085044.52,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R030",
+        "road_name": "Patel Avenue Extension",
+        "location": {
+            "lat": 12.7021,
+            "lon": 78.258
+        },
+        "road_type": "ODR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2021-02-12",
+        "budget_sanctioned": 326954103.1,
+        "budget_spent": 189632396.77,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R031",
+        "road_name": "Main Market Road",
+        "location": {
+            "lat": 13.2754,
+            "lon": 78.024
+        },
+        "road_type": "SH",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2023-06-10",
+        "budget_sanctioned": 232502150.96,
+        "budget_spent": 148707342.45,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R032",
+        "road_name": "Outer Ring Road Sector 6",
+        "location": {
+            "lat": 13.0492,
+            "lon": 78.8898
+        },
+        "road_type": "NH",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2021-02-24",
+        "budget_sanctioned": 237042382.07,
+        "budget_spent": 125429809.2,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R033",
+        "road_name": "Nehru Road",
+        "location": {
+            "lat": 13.0287,
+            "lon": 78.5692
+        },
+        "road_type": "VR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2022-05-27",
+        "budget_sanctioned": 460918668.07,
+        "budget_spent": 360370701.27,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R034",
+        "road_name": "Link Road Phase 1",
+        "location": {
+            "lat": 12.2362,
+            "lon": 77.3547
+        },
+        "road_type": "VR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2022-10-21",
+        "budget_sanctioned": 458184132.57,
+        "budget_spent": 322694656.29,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R035",
+        "road_name": "Tagore Street",
+        "location": {
+            "lat": 13.2674,
+            "lon": 77.5314
+        },
+        "road_type": "NH",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2020-03-01",
+        "budget_sanctioned": 122837684.51,
+        "budget_spent": 101803536.57,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R036",
+        "road_name": "Station Road Sector 12",
+        "location": {
+            "lat": 12.4094,
+            "lon": 77.5525
+        },
+        "road_type": "ODR",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2023-04-06",
+        "budget_sanctioned": 498951114.11,
+        "budget_spent": 330026565.52,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R037",
+        "road_name": "Airport Road Extension",
+        "location": {
+            "lat": 13.2968,
+            "lon": 77.3496
+        },
+        "road_type": "SH",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2021-03-14",
+        "budget_sanctioned": 273321300.23,
+        "budget_spent": 209123138.07,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R038",
+        "road_name": "Main Market Road Extension",
+        "location": {
+            "lat": 13.2707,
+            "lon": 77.4964
+        },
+        "road_type": "SH",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2021-04-09",
+        "budget_sanctioned": 18826824.37,
+        "budget_spent": 15684961.22,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R039",
+        "road_name": "Shivaji Road Phase 5",
+        "location": {
+            "lat": 12.7182,
+            "lon": 78.2975
+        },
+        "road_type": "VR",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2021-10-10",
+        "budget_sanctioned": 26041336.43,
+        "budget_spent": 16149307.13,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R040",
+        "road_name": "Bypass",
+        "location": {
+            "lat": 13.1081,
+            "lon": 77.495
+        },
+        "road_type": "ODR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2022-06-14",
+        "budget_sanctioned": 468314695.66,
+        "budget_spent": 424561823.59,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R041",
+        "road_name": "Gandhi Marg Phase 1",
+        "location": {
+            "lat": 12.2325,
+            "lon": 78.621
+        },
+        "road_type": "ODR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2021-06-17",
+        "budget_sanctioned": 419420599.31,
+        "budget_spent": 283598111.78,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R042",
+        "road_name": "Gandhi Marg Extension",
+        "location": {
+            "lat": 12.7163,
+            "lon": 77.5155
+        },
+        "road_type": "ODR",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2021-09-11",
+        "budget_sanctioned": 450064308.15,
+        "budget_spent": 324833776.96,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R043",
+        "road_name": "Link Road",
+        "location": {
+            "lat": 13.9214,
+            "lon": 78.3016
+        },
+        "road_type": "SH",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2023-11-04",
+        "budget_sanctioned": 214345965.66,
+        "budget_spent": 120615815.02,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R044",
+        "road_name": "Expressway Extension",
+        "location": {
+            "lat": 13.4292,
+            "lon": 77.6826
+        },
+        "road_type": "ODR",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2022-09-16",
+        "budget_sanctioned": 178541474.09,
+        "budget_spent": 92050394.99,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R045",
+        "road_name": "MG Road",
+        "location": {
+            "lat": 12.1218,
+            "lon": 78.1777
+        },
+        "road_type": "VR",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2023-06-13",
+        "budget_sanctioned": 55183167.88,
+        "budget_spent": 48038892.55,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R046",
+        "road_name": "Expressway Sector 12",
+        "location": {
+            "lat": 12.5478,
+            "lon": 77.9547
+        },
+        "road_type": "MDR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2023-02-08",
+        "budget_sanctioned": 217809765.16,
+        "budget_spent": 130669046.1,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R047",
+        "road_name": "University Road Phase 2",
+        "location": {
+            "lat": 12.2245,
+            "lon": 77.5306
+        },
+        "road_type": "VR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2020-08-02",
+        "budget_sanctioned": 384058054.27,
+        "budget_spent": 300358925.11,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R048",
+        "road_name": "Tagore Street Extension",
+        "location": {
+            "lat": 13.488,
+            "lon": 78.7514
+        },
+        "road_type": "ODR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2023-06-14",
+        "budget_sanctioned": 158204552.36,
+        "budget_spent": 123699675.77,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    },
+    {
+        "road_id": "R049",
+        "road_name": "Airport Road Phase 1",
+        "location": {
+            "lat": 12.983,
+            "lon": 78.5504
+        },
+        "road_type": "NH",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2021-02-13",
+        "budget_sanctioned": 443019086.89,
+        "budget_spent": 380270887.52,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R050",
+        "road_name": "Link Road",
+        "location": {
+            "lat": 13.4297,
+            "lon": 77.9292
+        },
+        "road_type": "ODR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2022-05-21",
+        "budget_sanctioned": 217569541.57,
+        "budget_spent": 169219680.05,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R051",
+        "road_name": "Gandhi Marg Phase 2",
+        "location": {
+            "lat": 13.1084,
+            "lon": 78.2745
+        },
+        "road_type": "VR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2022-06-04",
+        "budget_sanctioned": 50696665.08,
+        "budget_spent": 26799190.14,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R052",
+        "road_name": "Airport Road",
+        "location": {
+            "lat": 12.3307,
+            "lon": 78.989
+        },
+        "road_type": "MDR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2021-08-16",
+        "budget_sanctioned": 355169641.39,
+        "budget_spent": 260668864.62,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R053",
+        "road_name": "Tagore Street",
+        "location": {
+            "lat": 12.7341,
+            "lon": 78.8528
+        },
+        "road_type": "VR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2020-09-09",
+        "budget_sanctioned": 325816142.83,
+        "budget_spent": 295571917.57,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R054",
+        "road_name": "Outer Ring Road Phase 2",
+        "location": {
+            "lat": 12.4754,
+            "lon": 77.974
+        },
+        "road_type": "NH",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2020-12-13",
+        "budget_sanctioned": 361881587.17,
+        "budget_spent": 317137964.23,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R055",
+        "road_name": "High Street",
+        "location": {
+            "lat": 13.9594,
+            "lon": 78.2019
+        },
+        "road_type": "NH",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2023-10-24",
+        "budget_sanctioned": 412364869.32,
+        "budget_spent": 210350963.33,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R056",
+        "road_name": "Link Road Extension",
+        "location": {
+            "lat": 12.3894,
+            "lon": 78.2311
+        },
+        "road_type": "VR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2021-06-09",
+        "budget_sanctioned": 178414562.5,
+        "budget_spent": 107642860.0,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R057",
+        "road_name": "Outer Ring Road Extension",
+        "location": {
+            "lat": 13.0132,
+            "lon": 78.8473
+        },
+        "road_type": "SH",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2023-05-22",
+        "budget_sanctioned": 333033099.79,
+        "budget_spent": 208219479.94,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R058",
+        "road_name": "Nehru Road",
+        "location": {
+            "lat": 13.545,
+            "lon": 78.609
+        },
+        "road_type": "ODR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2021-04-21",
+        "budget_sanctioned": 315837848.06,
+        "budget_spent": 311804291.67,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R059",
+        "road_name": "Bypass Sector 3",
+        "location": {
+            "lat": 13.3998,
+            "lon": 77.4558
+        },
+        "road_type": "ODR",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2022-03-29",
+        "budget_sanctioned": 343320725.37,
+        "budget_spent": 202895461.17,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R060",
+        "road_name": "Nehru Road",
+        "location": {
+            "lat": 12.46,
+            "lon": 78.0216
+        },
+        "road_type": "ODR",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2020-04-03",
+        "budget_sanctioned": 29626480.69,
+        "budget_spent": 23111418.8,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R061",
+        "road_name": "Expressway",
+        "location": {
+            "lat": 13.4763,
+            "lon": 77.0289
+        },
+        "road_type": "NH",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2023-12-17",
+        "budget_sanctioned": 221660868.47,
+        "budget_spent": 118940102.38,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R062",
+        "road_name": "Tagore Street Extension",
+        "location": {
+            "lat": 12.2603,
+            "lon": 78.7002
+        },
+        "road_type": "NH",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2021-11-29",
+        "budget_sanctioned": 490721969.71,
+        "budget_spent": 364558534.3,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R063",
+        "road_name": "Patel Avenue Extension",
+        "location": {
+            "lat": 13.1594,
+            "lon": 78.5693
+        },
+        "road_type": "SH",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2022-04-21",
+        "budget_sanctioned": 242482889.51,
+        "budget_spent": 227030197.16,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R064",
+        "road_name": "Station Road Extension",
+        "location": {
+            "lat": 12.4608,
+            "lon": 78.8274
+        },
+        "road_type": "ODR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2022-08-24",
+        "budget_sanctioned": 302916039.45,
+        "budget_spent": 192242297.17,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R065",
+        "road_name": "Shivaji Road Phase 5",
+        "location": {
+            "lat": 13.1912,
+            "lon": 78.1304
+        },
+        "road_type": "NH",
+        "contractor_name": "Pioneer Roadways",
+        "last_relaying_date": "2023-07-13",
+        "budget_sanctioned": 328347076.52,
+        "budget_spent": 218985566.4,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R066",
+        "road_name": "MG Road",
+        "location": {
+            "lat": 13.6199,
+            "lon": 78.0625
+        },
+        "road_type": "NH",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2022-02-17",
+        "budget_sanctioned": 296829557.47,
+        "budget_spent": 273510949.65,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R067",
+        "road_name": "Bypass",
+        "location": {
+            "lat": 12.9249,
+            "lon": 78.4087
+        },
+        "road_type": "ODR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2020-01-03",
+        "budget_sanctioned": 227909043.58,
+        "budget_spent": 137168147.08,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R068",
+        "road_name": "Outer Ring Road Sector 6",
+        "location": {
+            "lat": 13.3032,
+            "lon": 78.8014
+        },
+        "road_type": "VR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2021-08-29",
+        "budget_sanctioned": 154087583.47,
+        "budget_spent": 121823497.73,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R069",
+        "road_name": "MG Road",
+        "location": {
+            "lat": 13.4937,
+            "lon": 77.6029
+        },
+        "road_type": "VR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2021-03-28",
+        "budget_sanctioned": 69820401.71,
+        "budget_spent": 56045221.82,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R070",
+        "road_name": "MG Road Sector 19",
+        "location": {
+            "lat": 13.6774,
+            "lon": 78.2913
+        },
+        "road_type": "NH",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2020-06-12",
+        "budget_sanctioned": 325493596.76,
+        "budget_spent": 182731700.78,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R071",
+        "road_name": "Expressway Phase 2",
+        "location": {
+            "lat": 13.9419,
+            "lon": 78.7766
+        },
+        "road_type": "VR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2023-02-04",
+        "budget_sanctioned": 365468879.4,
+        "budget_spent": 356533606.87,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R072",
+        "road_name": "Patel Avenue",
+        "location": {
+            "lat": 12.075,
+            "lon": 77.8395
+        },
+        "road_type": "SH",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2020-02-14",
+        "budget_sanctioned": 143758936.73,
+        "budget_spent": 103349413.89,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R073",
+        "road_name": "Link Road",
+        "location": {
+            "lat": 13.2906,
+            "lon": 78.4442
+        },
+        "road_type": "NH",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2020-03-27",
+        "budget_sanctioned": 437293125.35,
+        "budget_spent": 397534326.14,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R074",
+        "road_name": "Shivaji Road",
+        "location": {
+            "lat": 13.2201,
+            "lon": 78.8285
+        },
+        "road_type": "ODR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2022-07-30",
+        "budget_sanctioned": 440204919.08,
+        "budget_spent": 226145023.69,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R075",
+        "road_name": "Airport Road Sector 14",
+        "location": {
+            "lat": 12.5081,
+            "lon": 77.7465
+        },
+        "road_type": "SH",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2021-10-26",
+        "budget_sanctioned": 83886592.36,
+        "budget_spent": 51021995.83,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R076",
+        "road_name": "Tagore Street Extension",
+        "location": {
+            "lat": 13.7137,
+            "lon": 78.9228
+        },
+        "road_type": "SH",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2021-05-03",
+        "budget_sanctioned": 420357258.05,
+        "budget_spent": 301062204.56,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R077",
+        "road_name": "MG Road Extension",
+        "location": {
+            "lat": 12.7627,
+            "lon": 77.5097
+        },
+        "road_type": "VR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2020-08-04",
+        "budget_sanctioned": 216905610.62,
+        "budget_spent": 182220606.33,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R078",
+        "road_name": "Expressway Sector 10",
+        "location": {
+            "lat": 12.436,
+            "lon": 78.9938
+        },
+        "road_type": "VR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2021-08-03",
+        "budget_sanctioned": 402602974.45,
+        "budget_spent": 283941872.72,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R079",
+        "road_name": "Nehru Road Phase 3",
+        "location": {
+            "lat": 13.3934,
+            "lon": 78.7992
+        },
+        "road_type": "ODR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2022-05-03",
+        "budget_sanctioned": 89476418.33,
+        "budget_spent": 59680571.15,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R080",
+        "road_name": "Airport Road",
+        "location": {
+            "lat": 13.3423,
+            "lon": 78.5269
+        },
+        "road_type": "ODR",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2020-03-27",
+        "budget_sanctioned": 30160671.89,
+        "budget_spent": 16090523.97,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R081",
+        "road_name": "Expressway Sector 12",
+        "location": {
+            "lat": 13.7128,
+            "lon": 77.1422
+        },
+        "road_type": "MDR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2022-08-14",
+        "budget_sanctioned": 33862055.22,
+        "budget_spent": 17997154.92,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R082",
+        "road_name": "Station Road Phase 5",
+        "location": {
+            "lat": 12.3629,
+            "lon": 78.9254
+        },
+        "road_type": "ODR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2023-01-06",
+        "budget_sanctioned": 5627278.04,
+        "budget_spent": 3273043.23,
+        "executive_engineer_name": "Anita Desai",
+        "executive_engineer_contact": "anita.desai@pwd.gov.in"
+    },
+    {
+        "road_id": "R083",
+        "road_name": "Station Road Phase 2",
+        "location": {
+            "lat": 13.8969,
+            "lon": 77.9288
+        },
+        "road_type": "VR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2023-06-10",
+        "budget_sanctioned": 214435553.91,
+        "budget_spent": 167028616.07,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R084",
+        "road_name": "Main Market Road Sector 11",
+        "location": {
+            "lat": 13.6535,
+            "lon": 77.841
+        },
+        "road_type": "VR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2020-04-01",
+        "budget_sanctioned": 90704965.67,
+        "budget_spent": 61746514.44,
+        "executive_engineer_name": "Priya Kumar",
+        "executive_engineer_contact": "priya.kumar@pwd.gov.in"
+    },
+    {
+        "road_id": "R085",
+        "road_name": "Gandhi Marg Sector 11",
+        "location": {
+            "lat": 12.6844,
+            "lon": 78.8873
+        },
+        "road_type": "ODR",
+        "contractor_name": "Local Paving Co.",
+        "last_relaying_date": "2023-08-27",
+        "budget_sanctioned": 320486736.58,
+        "budget_spent": 213507217.83,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R086",
+        "road_name": "High Street",
+        "location": {
+            "lat": 12.2494,
+            "lon": 78.7315
+        },
+        "road_type": "SH",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2020-09-19",
+        "budget_sanctioned": 353508343.92,
+        "budget_spent": 312593595.42,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R087",
+        "road_name": "Main Market Road Sector 19",
+        "location": {
+            "lat": 13.5397,
+            "lon": 77.4518
+        },
+        "road_type": "VR",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2020-11-27",
+        "budget_sanctioned": 116556104.49,
+        "budget_spent": 82783203.73,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R088",
+        "road_name": "Nehru Road Extension",
+        "location": {
+            "lat": 13.4924,
+            "lon": 78.2348
+        },
+        "road_type": "VR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2021-04-27",
+        "budget_sanctioned": 225236449.65,
+        "budget_spent": 207839113.65,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R089",
+        "road_name": "Nehru Road Extension",
+        "location": {
+            "lat": 13.4556,
+            "lon": 78.5756
+        },
+        "road_type": "SH",
+        "contractor_name": "Delta Infra",
+        "last_relaying_date": "2020-04-24",
+        "budget_sanctioned": 334685426.29,
+        "budget_spent": 290650942.37,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R090",
+        "road_name": "High Street Phase 2",
+        "location": {
+            "lat": 13.7593,
+            "lon": 77.3988
+        },
+        "road_type": "SH",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2020-05-17",
+        "budget_sanctioned": 159176020.44,
+        "budget_spent": 150464173.87,
+        "executive_engineer_name": "Ravi Verma",
+        "executive_engineer_contact": "ravi.verma@pwd.gov.in"
+    },
+    {
+        "road_id": "R091",
+        "road_name": "Expressway Phase 1",
+        "location": {
+            "lat": 12.2048,
+            "lon": 78.3315
+        },
+        "road_type": "ODR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2022-12-09",
+        "budget_sanctioned": 104271061.85,
+        "budget_spent": 61761040.04,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R092",
+        "road_name": "Patel Avenue Phase 4",
+        "location": {
+            "lat": 13.1951,
+            "lon": 77.1498
+        },
+        "road_type": "VR",
+        "contractor_name": "Sunrise Builders",
+        "last_relaying_date": "2021-12-19",
+        "budget_sanctioned": 398697035.09,
+        "budget_spent": 320392881.05,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R093",
+        "road_name": "Main Market Road",
+        "location": {
+            "lat": 12.4129,
+            "lon": 78.1365
+        },
+        "road_type": "NH",
+        "contractor_name": "Apex Constructions",
+        "last_relaying_date": "2020-03-04",
+        "budget_sanctioned": 108839176.94,
+        "budget_spent": 103801774.9,
+        "executive_engineer_name": "Rahul Sharma",
+        "executive_engineer_contact": "rahul.sharma@pwd.gov.in"
+    },
+    {
+        "road_id": "R094",
+        "road_name": "Station Road Sector 14",
+        "location": {
+            "lat": 13.1487,
+            "lon": 78.9691
+        },
+        "road_type": "SH",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2020-11-25",
+        "budget_sanctioned": 134214610.13,
+        "budget_spent": 100965117.93,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R095",
+        "road_name": "Main Market Road",
+        "location": {
+            "lat": 13.4607,
+            "lon": 78.0276
+        },
+        "road_type": "VR",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2023-08-06",
+        "budget_sanctioned": 445643193.62,
+        "budget_spent": 225075069.08,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R096",
+        "road_name": "Bypass Sector 18",
+        "location": {
+            "lat": 13.5174,
+            "lon": 78.6883
+        },
+        "road_type": "ODR",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2022-05-15",
+        "budget_sanctioned": 427979550.96,
+        "budget_spent": 278025207.11,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R097",
+        "road_name": "Airport Road",
+        "location": {
+            "lat": 13.1346,
+            "lon": 78.1186
+        },
+        "road_type": "ODR",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2021-07-27",
+        "budget_sanctioned": 22369936.64,
+        "budget_spent": 20477958.77,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R098",
+        "road_name": "Outer Ring Road Extension",
+        "location": {
+            "lat": 13.5728,
+            "lon": 78.4177
+        },
+        "road_type": "MDR",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2020-05-02",
+        "budget_sanctioned": 67847825.78,
+        "budget_spent": 54364077.01,
+        "executive_engineer_name": "Arun Nair",
+        "executive_engineer_contact": "arun.nair@pwd.gov.in"
+    },
+    {
+        "road_id": "R099",
+        "road_name": "Nehru Road Sector 13",
+        "location": {
+            "lat": 13.802,
+            "lon": 78.9771
+        },
+        "road_type": "MDR",
+        "contractor_name": "Acme Builders Inc.",
+        "last_relaying_date": "2023-01-02",
+        "budget_sanctioned": 376631032.7,
+        "budget_spent": 330227154.61,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R100",
+        "road_name": "Station Road Extension",
+        "location": {
+            "lat": 12.9461,
+            "lon": 77.0168
+        },
+        "road_type": "ODR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2020-06-03",
+        "budget_sanctioned": 51426325.22,
+        "budget_spent": 32046848.03,
+        "executive_engineer_name": "Amit Patel",
+        "executive_engineer_contact": "amit.patel@pwd.gov.in"
+    },
+    {
+        "road_id": "R101",
+        "road_name": "Nehru Road",
+        "location": {
+            "lat": 12.9892,
+            "lon": 78.6703
+        },
+        "road_type": "ODR",
+        "contractor_name": "National Highway Auth",
+        "last_relaying_date": "2023-11-07",
+        "budget_sanctioned": 324206017.52,
+        "budget_spent": 216616056.33,
+        "executive_engineer_name": "Sanjay Joshi",
+        "executive_engineer_contact": "sanjay.joshi@pwd.gov.in"
+    },
+    {
+        "road_id": "R102",
+        "road_name": "Station Road",
+        "location": {
+            "lat": 12.3678,
+            "lon": 78.5118
+        },
+        "road_type": "MDR",
+        "contractor_name": "State PWD",
+        "last_relaying_date": "2023-05-27",
+        "budget_sanctioned": 50509362.27,
+        "budget_spent": 50487998.96,
+        "executive_engineer_name": "Neha Gupta",
+        "executive_engineer_contact": "neha.gupta@pwd.gov.in"
+    },
+    {
+        "road_id": "R103",
+        "road_name": "Patel Avenue Sector 7",
+        "location": {
+            "lat": 13.9893,
+            "lon": 77.4802
+        },
+        "road_type": "SH",
+        "contractor_name": "Metro Civil",
+        "last_relaying_date": "2022-07-31",
+        "budget_sanctioned": 102377165.32,
+        "budget_spent": 98278956.59,
+        "executive_engineer_name": "Vikram Singh",
+        "executive_engineer_contact": "vikram.singh@pwd.gov.in"
+    },
+    {
+        "road_id": "R104",
+        "road_name": "Station Road",
+        "location": {
+            "lat": 12.111,
+            "lon": 77.582
+        },
+        "road_type": "SH",
+        "contractor_name": "Global Infra",
+        "last_relaying_date": "2021-01-17",
+        "budget_sanctioned": 395803225.18,
+        "budget_spent": 277600883.06,
+        "executive_engineer_name": "Kavita Reddy",
+        "executive_engineer_contact": "kavita.reddy@pwd.gov.in"
+    }
+]
