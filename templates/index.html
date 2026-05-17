@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Open Road AI Chat</title>
+    <link rel="stylesheet" href="/static/chat.css" />
+</head>
+<body>
+    <div class="chat-container">
+        <header class="chat-header">
+            <div>
+                <h1>Open Road AI</h1>
+                <p>Ask about roads, report issues, or request details.</p>
+                <div class="chat-hint">
+                    <strong>Try:</strong> <em>details about &lt;road-name&gt;</em> or <em>report a pothole in &lt;road-name&gt;</em>
+                </div>
+            </div>
+        </header>
+
+        <section class="road-list">
+            <h2>Available roads</h2>
+            <p>Use one of these road names in your prompt.</p>
+            <ul>
+                {% for road in road_names %}
+                <li>{{ road }}</li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <div id="chatWindow" class="chat-window"></div>
+
+        <form id="chatForm" class="chat-form">
+            <input id="messageInput" type="text" autocomplete="off" placeholder="Type your message here..." />
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <script src="/static/chat.js"></script>
+</body>
+</html>
